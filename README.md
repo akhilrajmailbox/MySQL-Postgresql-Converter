@@ -1,6 +1,6 @@
 # MySQL Postgresql Converter
 
-[configuration]()
+[configuration](https://github.com/akhilrajmailbox/MySQL-Postgresql-Converter/blob/master/pdf-files/mysql-postgresql-converter.pdf)
 
 
 
